@@ -1,7 +1,7 @@
 # SwiftCycleView
 图片轮播
 
-Swift4.2使用UIScrollView 实习图片轮播
+Swift4.2使用UIScrollView 实现图片轮播
 轮播原理
 UIScrollView对象有pagingEnable成员，如果设置为YES，那么每一个scrollView尺寸这么大的区域就会被当作一页，在滚动时会根据滚动的比例自动计算应该切换到哪一页。
 
